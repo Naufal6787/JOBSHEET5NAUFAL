@@ -32,5 +32,6 @@ public class OperatorBitwise {
         
         z = y>> 2;
         System.out.println("Hasil operasi bitwise rught: " + z);
+        
     } 
 }

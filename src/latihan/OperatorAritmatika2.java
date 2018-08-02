@@ -23,6 +23,7 @@ public class OperatorAritmatika2 {
         
         System.out.println(a);
         System.out.println(b);
+        
     }
     
 }

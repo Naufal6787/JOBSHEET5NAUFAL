@@ -17,6 +17,8 @@ public class OperatorUnary {
         y = ++x;
         System.out.println("Nilai y sekarang : " + y);
         System.out.println("Nilai x sekarang : " + x);
+        
+        
     }
     
 }

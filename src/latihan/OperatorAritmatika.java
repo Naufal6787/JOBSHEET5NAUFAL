@@ -35,6 +35,7 @@ public class OperatorAritmatika {
         //Sisa pembagian
         c = a % b;
         System.out.println(a + " % " + b + " = " + c);
+        
     }
     
 }
